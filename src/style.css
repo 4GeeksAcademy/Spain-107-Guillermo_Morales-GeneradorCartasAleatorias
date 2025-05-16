@@ -1,5 +1,28 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: green;
 }
+.container-fluid{
+width: 350px;
+height: 500px;
+background-color:white;
+margin-top: 150px;
+border-radius: 15px;
+}
+
+#top{
+    font-size: 100px;
+}
+
+#center{
+    font-size: 140px;
+}
+
+#end{
+    font-size: 100px;
+}
+
+.button{
+    border-radius: 10px;
+}  
