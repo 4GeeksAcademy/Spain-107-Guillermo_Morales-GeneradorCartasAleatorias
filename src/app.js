@@ -27,4 +27,10 @@ function CartaNueva() {
   top.innerText = paloSeleccionado;
   center.innerText = numeroSeleccionado;
   end.innerText = paloSeleccionado;
+
+  if (paloSeleccionado=="♥") {
+     top.style.color = "red";
+    end.style.color = "red";
+    
+  }
 }

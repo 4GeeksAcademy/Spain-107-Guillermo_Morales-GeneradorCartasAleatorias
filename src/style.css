@@ -21,6 +21,7 @@ border-radius: 15px;
 
 #end{
     font-size: 100px;
+    transform: rotate(180deg)
 }
 
 .button{
